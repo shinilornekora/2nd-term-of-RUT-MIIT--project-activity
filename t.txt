@@ -1,0 +1,3 @@
+indab: 3 6
+indac: 6 3
+indcb: 2 3
